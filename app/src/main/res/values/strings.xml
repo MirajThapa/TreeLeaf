@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TreeLeaf_ValidateNumber</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="hello">Hello</string>
+    <string name="emailHint">miroz@gmail.com</string>
+</resources>
